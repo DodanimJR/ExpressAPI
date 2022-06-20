@@ -1,0 +1,20 @@
+json de post para ahorrar tiempo
+
+{
+	"primerNombre":"KIKI" , 
+	"primerApellido": "rivera", 
+	"edad": "80", 
+	"paisOrigen": "Costa Rica", 
+	"carrera": "Ingenieria", 
+	"materias":["Calculo","Progra"],
+	"moroso":"true" , 
+	"deudaCicloAnual": 400
+}
+{
+ 	"nombre": "Programacion", 
+    "codigo": "121225", 
+    "profesor": "Eduardo Martinez", 
+    "inicialesProfesor": "EM", 
+    "creditos": 3,
+    "carrera": "Ingenieria"
+}
